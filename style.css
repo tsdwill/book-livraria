@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    font-family: tahoma;
+    color: #666;
+}
+
+#total{
+    width: 1000px;
+    margin: auto;
+}
+
+#topo{
+    text-align: center;
+}
+
+#logo{
+    text-align: center;
+    margin: 30px 0;
+}
+
+#menu{
+    background-color: #222;
+    height: 40px;
+    margin-top: 20px;
+}
+
+#menu a{
+    color: #fff;
+    text-decoration: none;
+    margin: 0 35px;
+    line-height: 40px;
+}
+#menu a:hover{
+    text-decoration: underline;
+}
+#banner img{
+    width: 100%;
+    margin-top: 5px;
+}
